@@ -150,8 +150,7 @@ student_t* createList(){
         else {
             current->next = new_node;
         }
-        
-         current = new_node;
+        current = new_node;
 
     }
     
